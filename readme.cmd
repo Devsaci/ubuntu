@@ -34,3 +34,32 @@ entries). To interact with any of the machines, you can go to that
 directory and run Vagrant, or you can use the ID directly with
 Vagrant commands from any directory. For example:
 "vagrant destroy 1a2b3c4d"
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/ubuntu (main)
+$ vagrant ssh
+Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-87-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Sun Nov 12 12:29:03 UTC 2023
+
+  System load:  0.07421875        Processes:               103
+  Usage of /:   3.6% of 38.70GB   Users logged in:         0
+  Memory usage: 20%               IPv4 address for enp0s3: 10.0.2.15
+  Swap usage:   0%
+
+
+Expanded Security Maintenance for Applications is not enabled.
+
+0 updates can be applied immediately.
+
+Enable ESM Apps to receive additional future security updates.
+See https://ubuntu.com/esm or run: sudo pro status
+
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
+
+cvagrant@ubuntu-jammy:~$ c

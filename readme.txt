@@ -218,3 +218,9 @@ end
 
 sacid@Gen□ve MINGW64 /d/vagrant-vms/ubuntu (main)
 $ vagrant up
+
+sacid@Gen□ve MINGW64 /d/vagrant-vms/ubuntu (main)
+$ ls -a
+./  ../  .git/  readme.txt
+sacid@Gen□ve MINGW64 /d/vagrant-vms/ubuntu (main)
+$ vagrant init ubuntu/jammy64

@@ -67,4 +67,4 @@ cvagrant@ubuntu-jammy:~$ c
 sacid@Gen□ve MINGW64 /d/vagrant-vms
 $ cd ubuntu/
 sacid@Gen□ve MINGW64 /d/vagrant-vms/ubuntu (main)
-$
+$ cat Vagrantfile
